@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/Pritichitbone653/argocd-example-apps.git
-    targetRevision: main
+    targetRevision: master
     path: apps
     directory:
       recurse: true
